@@ -45,7 +45,7 @@ public class ControladorConvierte extends VistaConvierte{
 	//
 	public ControladorConvierte(){
 		txtPulgadas.addActionListener(new EscuchaPulgadas());
-		txtPulgadas.addActionListener(new EscuchaBoton());
+		btConvierte.addActionListener(new EscuchaPulgadas());
 	}
 	
 	
