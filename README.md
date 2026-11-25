@@ -105,5 +105,3 @@ Some projects provide classes for other exercises and have no standalone entry p
 | [TarjetaDeCredito](TarjetaDeCredito/) | Models a credit card and exercises its operations from the console. |
 | [Vivero](Vivero/) | Models a plant nursery and stores plant objects in an array. |
 | [Zoologico](Zoologico/) | Models a zoo and snakes using a two-dimensional array. |
-
-Root-level archives: [Calc.zip](Calc.zip) and [Geometría.zip](Geometr%C3%ADa.zip) are archived copies of the corresponding exercises.
